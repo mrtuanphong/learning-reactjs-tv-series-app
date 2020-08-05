@@ -5,11 +5,11 @@
 
 ## Preview
 
-![Homepage](https://github.com/mrtuanphong/tv-series-app/blob/master/udemy-certificate/1.png?raw=true "Homepage")
+![Homepage](https://github.com/mrtuanphong//learning-reactjs-tv-series-app/blob/master/udemy-certificate/1.png?raw=true "Homepage")
 
-![Searching](https://github.com/mrtuanphong/tv-series-app/blob/master/udemy-certificate/2.png?raw=true "Searching")
+![Searching](https://github.com/mrtuanphong//learning-reactjs-tv-series-app/blob/master/udemy-certificate/2.png?raw=true "Searching")
 
-![Detail](https://github.com/mrtuanphong/tv-series-app/blob/master/udemy-certificate/3.png?raw=true "Detail")
+![Detail](https://github.com/mrtuanphong//learning-reactjs-tv-series-app/blob/master/udemy-certificate/3.png?raw=true "Detail")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
