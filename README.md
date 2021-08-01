@@ -1,7 +1,7 @@
 ## Course info
 
 - [React Fundamentals from Udemy](https://www.udemy.com/course/react-fundamentals/)
-- [Demo](https://codesandbox.io/s/tv-series-app-lnsze?fontsize=14&hidenavigation=1&theme=dark)
+- [Demo](https://mrtuanphong.github.io/learning-reactjs-tv-series-app/)
 
 ## Preview
 
